@@ -5,7 +5,7 @@
   nicholasadamou.com - v2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://nicholasadamou.com" target="_blank">nicholasadamou.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
+  The second iteration of <a href="https://nicholasadamou.com" target="_blank">nicholasadamou.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>.
 </p>
 <p align="center">
   Previous iterations:
@@ -93,7 +93,6 @@ This project uses the following technologies:
 This project uses the following CI/CD Pipeline:
 
 1. [**CircleCI**](https://circleci.com/) - CircleCI is used to test whether or not this project builds successfully.
-2. [**Netlify**](https://netlify.com/) - For continuous deployment to [_nicholasadamou.com_](https://nicholasadamou.com).
 
 ## License
 
