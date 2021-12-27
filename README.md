@@ -55,11 +55,11 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [ni
 
 4. Run the live-reload server on <http://localhost:8000>.
 
- ```bash
- yarn start
- ```
+   ```bash
+   yarn start
+   ```
 
-    If needed, you can then access the [GraphiQL](https://www.gatsbyjs.com/docs/how-to/querying-data/running-queries-with-graphiql/) interface on <http://localhost:8000/___graphql>.
+   If needed, you can then access the [GraphiQL](https://www.gatsbyjs.com/docs/how-to/querying-data/running-queries-with-graphiql/) interface on <http://localhost:8000/___graphql>.
 
 ## 🚀 Building and Running for Production
 
